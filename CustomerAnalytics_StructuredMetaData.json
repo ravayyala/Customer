@@ -2,7 +2,7 @@
     {
         "source_url" : "refs/heads/main/CustomerAnalytics_StructuredData/accounts.csv",
         "sink_folder" : "CustomerAnalytics_Bronze_Accounts",
-        "sink_file" : "CustomerAnalytics_Accounts.csv"
+        "sink_file" : "CustomerAnalytics_accounts.csv"
     },
     {
          "source_url" : "refs/heads/main/CustomerAnalytics_StructuredData/customers.csv",
@@ -16,4 +16,5 @@
         "sink_file" : "CustomerAnalytics_transactions.csv"
 
     }
+
 ]
