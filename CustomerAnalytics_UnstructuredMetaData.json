@@ -1,0 +1,19 @@
+[
+    {
+        "source_url" : "refs/heads/main/CustomerAnalytics_UnstructuredData/customer_reviews.json",
+        "sink_folder" : "CustomerAnalytics_Bronze_Customer_Reviews",
+        "sink_file" : "CustomerAnalytics_customer_reviews.json"
+    },
+    {
+         "source_url" : "refs/heads/main/CustomerAnalytics_UnstructuredData/social_media.json",
+        "sink_folder" : "CustomerAnalytics_Bronze_Social_Media",
+        "sink_file" : "CustomerAnalytics_social_media.json"
+
+    },
+    {
+        "source_url" : "refs/heads/main/CustomerAnalytics_UnstructuredData/web_logs.json",
+        "sink_folder" : "CustomerAnalytics_Bronze_Web_Logs",
+        "sink_file" : "CustomerAnalytics_web_logs.json"
+
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "source_url" : "refs/heads/main/CustomerAnalytics_StructuredData/accounts.csv",
+        "sink_folder" : "CustomerAnalytics_Bronze_Accounts",
+        "sink_file" : "CustomerAnalytics_Accounts.csv"
+    },
+    {
+         "source_url" : "refs/heads/main/CustomerAnalytics_StructuredData/customers.csv",
+        "sink_folder" : "CustomerAnalytics_Bronze_Customers",
+        "sink_file" : "CustomerAnalytics_customers.csv"
+
+    },
+    {
+        "source_url" : "refs/heads/main/CustomerAnalytics_StructuredData/transactions.csv",
+        "sink_folder" : "CustomerAnalytics_Bronze_Transactions",
+        "sink_file" : "CustomerAnalytics_transactions.csv"
+
+    }
+]
