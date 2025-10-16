@@ -11,9 +11,10 @@
 
     },
     {
-        "source_url" : "refs/heads/main/CustomerAnalytics_UnstructuredData/web_logs.json",
-        "sink_folder" : "CustomerAnalytics_Bronze_Web_Logs",
-        "sink_file" : "CustomerAnalytics_web_logs.json"
+        "source_url" : "refs/heads/main/CustomerAnalytics_UnstructuredData/weblogs.json",
+        "sink_folder" : "CustomerAnalytics_Bronze_WebLogs",
+        "sink_file" : "CustomerAnalytics_weblogs.json"
 
     }
+
 ]
